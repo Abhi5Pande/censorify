@@ -1,7 +1,7 @@
 {
   "author": "Abhijit P",
   "name": "censorifyv",
-  "version": "0.0.2",
+  "version": "0.1.1",
   "description": "Censor words out of text",
   "main": "censortext",
   "repository": {
