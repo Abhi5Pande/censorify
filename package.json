@@ -1,11 +1,27 @@
 {
-"author": "Abhijit P",
-"name":"censorify",
-"version": "0.0.1",
-"description": "Censor words out of text",
-"main": "censortext",
-"dependencies": {},
-"engines": {
+  "author": "Abhijit P",
+  "name": "censorifyv",
+  "version": "0.0.2",
+  "description": "Censor words out of text",
+  "main": "censortext",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhi5Pande/censorify.git"
+  },
+  "keywords": [
+    "censor",
+    "words"
+  ],
+  "dependencies": {},
+  "engines": {
     "node": "*"
-}
+  },
+  "bugs": {
+    "url": "https://github.com/Abhi5Pande/censorify/issues"
+  },
+  "homepage": "https://github.com/Abhi5Pande/censorify#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC"
 }
